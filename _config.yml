@@ -20,9 +20,9 @@ repository: "miramkj/miramkj.github.io"
 # Site Author (sidebar)
 # -------------------------
 author:
-  avatar: "/files/Pic_JiQi.jpg"
+  avatar: "Pic_JiQi.jpg"
   name: "Ji Qi 祁霁"
-  bio: "PhD Candidate"
+  bio: "PhD Candidate in Global Public Policy"
   location: "Heidelberg (Visiting)"
   employer: "Fudan University"
   uri:
