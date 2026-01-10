@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-reviewed articles
 
-- **Qian, Haoqi**, **Ji Qi**, and Weiqi Tang.  
+- Qian, Haoqi, **Ji Qi**, and Weiqi Tang.  
   *The latest progress and prospects of key parameter estimation for computable general equilibrium models.*  
   **Journal of Energy and Climate Change**, 2025.
 
