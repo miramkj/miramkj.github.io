@@ -22,7 +22,7 @@ repository: "miramkj/miramkj.github.io"
 author:
   avatar: "profile.png"
   name: "Ji Qi"
-  bio: "PhD Candidate in Global Public Policy. Climate finance, development finance, and inequality."
+  bio: "PhD Candidate"
   location: "Heidelberg (Visiting)"
   employer: "Fudan University"
   uri:
@@ -32,7 +32,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=rkfstZUAAAAJ&hl=en"
 
   # Social media
-  linkedin: "https://www.linkedin.com/in/ji-qi-59b45816b/"
+  linkedin: "www.linkedin.com/in/ji-qi-59b45816b"
 
 # -------------------------
 # Site Settings
