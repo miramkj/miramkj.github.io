@@ -12,5 +12,3 @@ My research lies at the intersection of **international political economy**, **c
 (2) China’s role in global climate governance;
 (3) inequality and institutions in the Global South.
 
-
----
