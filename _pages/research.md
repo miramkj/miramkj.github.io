@@ -6,22 +6,29 @@ author_profile: true
 
 ## Peer-reviewed articles
 
+- **Ji Qi**, Yayun Tang, Zhenyi Zhang, Yu Wang, and Haoqi Qian.  
+  *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000-2021.*  
+  **Scientific Data**, 2026. Forthcoming.
+  
 - Qian, Haoqi, **Ji Qi**, and Weiqi Tang.  
   *The latest progress and prospects of key parameter estimation for computable general equilibrium models.*  
-  **Journal of Energy and Climate Change**, 2025.
+  **Journal of Energy and Climate Change**, 2025.  
+  DOI: [https://doi.org/10.3724/j.issn.2097-4981.JECC-2025-0012](https://doi.org/10.3724/j.issn.2097-4981.JECC-2025-0012)
 
 - Bach, Hanna Mathilda, **Ji Qi**, and Haoqi Qian.  
   *Examining the impact of Chinese development finance on the low-carbon transition of Belt and Road Initiative developing countries.*  
-  **Energy, Ecology and Environment**, 2024.
+  **Energy, Ecology and Environment**, 2024.  
+  DOI: [https://doi.org/10.1007/s40974-024-00348-2](https://doi.org/10.1007/s40974-024-00348-2)
 
 - **Ji Qi** and Haoqi Qian.  
   *Climate finance at a crossroads: It is high time to use the global solution.*  
-  **Carbon Neutrality**, 2023.
+  **Carbon Neutrality**, 2023.  
+  DOI: [https://doi.org/10.1007/s43979-023-00071-7](https://doi.org/10.1007/s43979-023-00071-7)
 
 - Qian, Haoqi, **Ji Qi**, and Xiang Gao.  
   *What determines international climate finance? Payment capability, self-interests and political commitment.*  
-  **Global Public Policy and Governance**, 2023.
-
+  **Global Public Policy and Governance**, 2023.  
+  DOI: [https://doi.org/10.1007/s43508-023-00062-5](https://doi.org/10.1007/s43508-023-00062-5)
 ---
 
 ## Work in progress
