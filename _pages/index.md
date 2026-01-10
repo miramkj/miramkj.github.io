@@ -12,4 +12,4 @@ My research lies at the intersection of **international political economy**, **c
 (2) China’s role in global climate governance;
 (3) inequality and institutions in the Global South.
 
-Methodologically, I combine econometric analysis and computational workflows. I mainly work with Stata, Python, and R, and also use QGIS for spatial analysis and GAMS for computable general equilibrium modeling.
+
