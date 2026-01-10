@@ -16,9 +16,7 @@ July – September 2021
 
 **Deloitte Consulting**  
 Consulting Intern
-
 Shanghai, China
-
 September – December 2020
 
 ---
