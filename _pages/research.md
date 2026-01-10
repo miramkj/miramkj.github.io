@@ -32,9 +32,6 @@ author_profile: true
 - **Social Equality Enhancement of International Climate Finance**  
   *Working paper, with Yi Zhao, Xin Ye, Yang Xie, and Haoqi Qian.*
 
-- **A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000–2021**  
-  *Working paper, with Zhenyi Zhang, Yayun Tang, Yu Wang, and Haoqi Qian.*
-
 - **The Association Between Co-occurrence of Risk Factors and Intimate Partner Violence Against Women Aged 15–49: Evidence from Demographic and Health Surveys in 53 Low- and Middle-Income Countries**  
   *Working paper, with Xinfeng Wang, Jingkai Zha, Nan Zhang, Xin Ye, and Yingyao Chen.*
 
