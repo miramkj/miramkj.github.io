@@ -19,3 +19,4 @@ Consulting Intern
 Shanghai, China
 September – December 2020
 
+---
