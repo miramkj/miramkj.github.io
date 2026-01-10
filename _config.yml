@@ -13,8 +13,8 @@ description: &description "Public Policy PhD candidate. Research on climate fina
 
 # IMPORTANT: project site under https://miramkj.github.io/mira-ji-qi/
 url: "https://miramkj.github.io"
-baseurl: "/mira-ji-qi"
-repository: "miramkj/mira-ji-qi"
+baseurl: ""
+repository: "miramkj/miramkj.github.io"
 
 # -------------------------
 # Site Author (sidebar)
