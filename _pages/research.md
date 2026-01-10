@@ -48,5 +48,3 @@ author_profile: true
 - *Paper presentation*, 7th International Conference on Public Policy, Chiang Mai University, 2025.  
 - *Paper presentation*, 20th Biennial Conference of the IASC, University of Massachusetts Amherst, 2025.  
 - *Presenter*, S3 Sustainability Forum PhD Session, Fudan University, 2025.  
-- *Presenter*, Sydney–Fudan Climate and Health Forum, University of Sydney, 2024.  
-- *Paper presentation*, International Conference on Climate and Energy Finance, Shandong University, 2024.
