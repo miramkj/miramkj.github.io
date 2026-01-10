@@ -9,7 +9,7 @@ site_theme: "default" # "default", "air", "sunrise", "mint", "dirt", "contrast"
 title: "Ji Qi"
 title_separator: "-"
 name: &name "Ji Qi"
-description: &description "Public Policy PhD candidate. Research on climate finance and development outcomes."
+description: &description "PhD candidate"
 
 # IMPORTANT: project site under https://miramkj.github.io/mira-ji-qi/
 url: "https://miramkj.github.io"
