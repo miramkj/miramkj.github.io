@@ -8,7 +8,8 @@ author_profile: true
 
 - **Ji Qi**, Yayun Tang, Zhenyi Zhang, Yu Wang, and Haoqi Qian.  
   *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000-2021.*  
-  **Scientific Data**, 2026. Forthcoming.
+  **Scientific Data**, 2026.
+  DOI: [https://doi.org/10.1038/s41597-026-06605-9](https://doi.org/10.1038/s41597-026-06605-9)
   
 - Qian, Haoqi, **Ji Qi**, and Weiqi Tang.  
   *The latest progress and prospects of key parameter estimation for computable general equilibrium models.*  
