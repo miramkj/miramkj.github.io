@@ -8,16 +8,16 @@ author_profile: true
 
 ### A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations (2000–2021)
 
-This dataset provides a systematically constructed and validated record of Chinese development finance projects with climate relevance, covering the period from 2000 to 2021. It combines project-level information with detailed annotations on climate relevance and Sustainable Development Goal (SDG) alignment, aiming to improve transparency and comparability in empirical research on international climate finance.
+This dataset presents a comprehensive, project-level benchmark of Chinese development finance with explicit climate relevance and Sustainable Development Goal (SDG) annotations, covering the period from 2000 to 2021. It is designed to support empirical research on international climate finance, development assistance, and energy transition by improving transparency, comparability, and reproducibility across studies.
 
-The dataset is based on a hybrid approach that integrates manual expert annotation with cross-verification procedures, ensuring consistency and reliability across thematic classifications.
+The dataset integrates detailed project metadata with systematically coded indicators of climate relevance and SDG alignment. Its construction follows a hybrid methodology that combines expert manual annotation with structured cross-validation procedures, ensuring internal consistency and robustness across thematic classifications.
 
-- **Status**: Accepted at *Scientific Data* (January 2026)  
-- **Related paper**:  
+The dataset has been peer-reviewed and published in *Scientific Data*.
+
+- **Publication**: *Scientific Data* (2026)  
+- **DOI**: https://doi.org/10.1038/s41597-026-06605-9  
+- **Reference**:  
   *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000–2021*  
-  *with Yayun Tang, Zhenyi Zhang, Yu Wang, and Haoqi Qian*
+  Yayun Tang, Zhenyi Zhang, Yu Wang, **Mira**, and Haoqi Qian
 
-Further documentation and access information will be provided alongside the journal publication.
-
----
-
+The full dataset, documentation, and coding framework are available through the journal publication and its associated repositories. These materials provide detailed descriptions of data sources, annotation rules, validation procedures, and recommended use cases for empirical analysis.
