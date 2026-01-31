@@ -15,9 +15,8 @@ The dataset integrates detailed project metadata with systematically coded indic
 The dataset has been peer-reviewed and published in *Scientific Data*.
 
 - **Publication**: *Scientific Data* (2026)  
-- **DOI**: https://doi.org/10.1038/s41597-026-06605-9  
 - **Reference**:  
-  *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000–2021*  
+  *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000–2021*  (https://doi.org/10.1038/s41597-026-06605-9)
   Yayun Tang, Zhenyi Zhang, Yu Wang, **Mira**, and Haoqi Qian
 
 The full dataset, documentation, and coding framework are available through the journal publication and its associated repositories. These materials provide detailed descriptions of data sources, annotation rules, validation procedures, and recommended use cases for empirical analysis.
