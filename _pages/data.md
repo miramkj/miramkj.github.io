@@ -6,7 +6,7 @@ author_profile: true
 
 ## Datasets
 
-### [A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations(2000–2021)](https://doi.org/10.1038/s41597-026-06605-9)
+### [A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations (2000–2021)](https://doi.org/10.1038/s41597-026-06605-9)
 
 This dataset presents a comprehensive, project-level benchmark of Chinese development finance with explicit climate relevance and Sustainable Development Goal (SDG) annotations, covering the period from 2000 to 2021. It is designed to support empirical research on international climate finance, development assistance, and energy transition by improving transparency, comparability, and reproducibility across studies.
 
