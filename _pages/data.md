@@ -17,6 +17,7 @@ The dataset has been peer-reviewed and published in *Scientific Data*.
 - **Publication**: *Scientific Data* (2026)  
 - **Reference**:  
   [*A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000–2021*](https://doi.org/10.1038/s41597-026-06605-9)
+  
    **Ji Qi**, Yayun Tang, Zhenyi Zhang, Yu Wang, and Haoqi Qian
 
 The full dataset, documentation, and coding framework are available through the journal publication and its associated repositories. These materials provide detailed descriptions of data sources, annotation rules, validation procedures, and recommended use cases for empirical analysis.
