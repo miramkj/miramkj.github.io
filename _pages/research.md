@@ -33,7 +33,7 @@ author_profile: true
   *What determines international climate finance? Payment capability, self-interests and political commitment.*  
   **Global Public Policy and Governance**, 2023.  
   Link: [https://doi.org/10.1007/s43508-023-00062-5](https://doi.org/10.1007/s43508-023-00062-5)
----
+
 ## Work in progress
 - **Rethinking Climate Finance Effectiveness: The Role of Institutional Readiness in Shaping Development Outcomes in Sub-Saharan Africa**  
   *Revise and resubmit, with Haoqi Qian.*
@@ -43,7 +43,7 @@ author_profile: true
   *Under review, with Yu Wang and Haoqi Qian.*
 - **Not All Loans Are Bad: Optimal Allocation of Climate Finance in a Competitive Donor Environment**  
   *Working paper, with Haoqi Qian.*
----
+
 ## Talks and presentations
 - *Paper presentation*, APSA Annual Conference, Boston, 2026.  
 - *Paper presentation*, APPAM Annual Conference, Seattle, 2025.  
