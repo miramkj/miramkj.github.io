@@ -8,7 +8,11 @@ author_profile: true
   *A Benchmark Dataset of Chinese Development Finance with Climate Relevance and SDG Annotations from 2000-2021.*  
   **Scientific Data**, 2026.  
   Link: [https://doi.org/10.1038/s41597-026-06605-9](https://doi.org/10.1038/s41597-026-06605-9)
-
+  
+- **Ji Qi** and Haoqi Qian.  
+  *Rethinking Climate Finance Effectiveness: The Role of Institutional Readiness in Shaping Development Outcomes in Sub-Saharan Africa.*  
+  **Sustainable Development**, Forthcoming.
+  
 - Wang, Xinfeng, Jingkai Zha, **Ji Qi**, Nan Zhang, Xin Ye, and Yingyao Chen.  
   *Association between concurrence of risk factors and intimate partner violence against women: Evidence from Demographic and Health Surveys in 53 low- and middle-income countries.*  
   **BMJ Global Health**, 2026.  
@@ -35,14 +39,14 @@ author_profile: true
   Link: [https://doi.org/10.1007/s43508-023-00062-5](https://doi.org/10.1007/s43508-023-00062-5)
 
 ## Work in progress
-- **Rethinking Climate Finance Effectiveness: The Role of Institutional Readiness in Shaping Development Outcomes in Sub-Saharan Africa**  
-  *Revise and resubmit, with Haoqi Qian.*
 - **Social Equality Enhancement of International Climate Finance**  
   *Under review, with Yi Zhao, Xin Ye, Yang Xie, and Haoqi Qian.*
 - **Tuning Transformer Models Correctly: A Practical Tutorial on Hyperparameter Optimization and Data Splitting for Behavioral Scientists**  
   *Under review, with Yu Wang and Haoqi Qian.*
 - **Not All Loans Are Bad: Optimal Allocation of Climate Finance in a Competitive Donor Environment**  
   *Working paper, with Haoqi Qian.*
+- **Greening on Paper: Political Incentives and the Reporting of Climate Aid**  
+  *Working paper, with Yizhe Wu and Haoqi Qian.*
 
 ## Talks and presentations
 - *Paper presentation*, APSA Annual Conference, Boston, 2026.  
