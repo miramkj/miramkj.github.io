@@ -45,7 +45,7 @@ author_profile: true
 - **Tuning Transformer Models Correctly: A Practical Tutorial on Hyperparameter Optimization and Data Splitting for Behavioral Scientists**  
   *Under review, with Yu Wang and Haoqi Qian.*
 - **Not All Loans Are Bad: Optimal Allocation of Climate Finance in a Competitive Donor Environment**  
-  *Working paper, with Haoqi Qian.*
+  *Working paper*
 - **Greening on Paper: Political Incentives and the Reporting of Climate Aid**  
   *Working paper, with Yizhe Wu and Haoqi Qian.*
 
