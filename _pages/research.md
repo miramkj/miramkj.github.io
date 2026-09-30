@@ -11,7 +11,8 @@ author_profile: true
   
 - **Ji Qi** and Haoqi Qian.  
   *Rethinking Climate Finance Effectiveness: The Role of Institutional Readiness in Shaping Development Outcomes in Sub-Saharan Africa.*  
-  **Sustainable Development**, Forthcoming.
+  **Sustainable Development**, 2026.
+  Link: [https://doi.org/10.1002/sd.71583](https://doi.org/10.1002/sd.71583)
   
 - Wang, Xinfeng, Jingkai Zha, **Ji Qi**, Nan Zhang, Xin Ye, and Yingyao Chen.  
   *Association between concurrence of risk factors and intimate partner violence against women: Evidence from Demographic and Health Surveys in 53 low- and middle-income countries.*  
